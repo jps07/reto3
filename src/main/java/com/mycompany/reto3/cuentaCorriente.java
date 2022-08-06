@@ -12,7 +12,7 @@ public class cuentaCorriente extends Cliente {
     private long cuenta;
     private String fecha;
     private double saldo;
-    private float porcentaje;
+    private double porcentaje;
     private double sobregiro;
 
     
